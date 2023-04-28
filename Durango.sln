@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Durango.Api", "Durango.Api\Durango.Api.csproj", "{4AAF0379-080C-429A-A368-307C54D09C30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Durango.Contracts", "Durango.Contracts\Durango.Contracts.csproj", "{3B4DF7BC-9FBF-4DEB-9B19-03F77CC7B2AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Durango.Domain", "Durango.Domain\Durango.Domain.csproj", "{43FF779F-3171-4E26-B8C9-408B286801F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Durango.Infrastructure", "Durango.Infrastructure\Durango.Infrastructure.csproj", "{3273D28D-ED22-4C22-8464-2ACFCE510ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Durango.Application", "Durango.Application\Durango.Application.csproj", "{DC1275F7-ADC4-45B8-8053-4BA6265C3F77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AAF0379-080C-429A-A368-307C54D09C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AAF0379-080C-429A-A368-307C54D09C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AAF0379-080C-429A-A368-307C54D09C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AAF0379-080C-429A-A368-307C54D09C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4DF7BC-9FBF-4DEB-9B19-03F77CC7B2AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4DF7BC-9FBF-4DEB-9B19-03F77CC7B2AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4DF7BC-9FBF-4DEB-9B19-03F77CC7B2AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4DF7BC-9FBF-4DEB-9B19-03F77CC7B2AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43FF779F-3171-4E26-B8C9-408B286801F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43FF779F-3171-4E26-B8C9-408B286801F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43FF779F-3171-4E26-B8C9-408B286801F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43FF779F-3171-4E26-B8C9-408B286801F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3273D28D-ED22-4C22-8464-2ACFCE510ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3273D28D-ED22-4C22-8464-2ACFCE510ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3273D28D-ED22-4C22-8464-2ACFCE510ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3273D28D-ED22-4C22-8464-2ACFCE510ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1275F7-ADC4-45B8-8053-4BA6265C3F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1275F7-ADC4-45B8-8053-4BA6265C3F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1275F7-ADC4-45B8-8053-4BA6265C3F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1275F7-ADC4-45B8-8053-4BA6265C3F77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
