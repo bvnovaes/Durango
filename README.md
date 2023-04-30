@@ -44,7 +44,7 @@ Para rodar o projeto, siga os passos abaixo:
 
 ## Autores
 
-Este projeto foi criado por Bruno Novaes. Para mais informações, acesse o meu [perfil](https://github.com/bvnovaes) no GitHub.
+Este projeto foi criado por [Bruno Novaes](https://github.com/bvnovaes).
 
 ## Licença
 
