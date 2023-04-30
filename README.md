@@ -29,7 +29,7 @@ O aplicativo Durango Finanças foi desenvolvido utilizando as seguintes tecnolog
 
 Para rodar o projeto, siga os passos abaixo:
 
-1. Clone o repositório usando o comando `git clone https://github.com/seu-usuario/durango-finance.git`
+1. Clone o repositório usando o comando `git clone https://github.com/bvnovaes/durango.git`
 2. Na pasta do projeto, execute o comando `docker-compose up -d` para iniciar o banco de dados
 3. Acesse a pasta `api` e execute o comando `dotnet run` para iniciar a API
 4. Acesse a pasta `app` e execute o comando `flutter run` para iniciar o aplicativo
