@@ -50,7 +50,7 @@ Este projeto foi criado por Bruno Novaes. Para mais informações, acesse o meu 
 
 ## Licença
 
-Este projeto é distribuído sob a licença [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+Este projeto é distribuído sob a licença [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. Consulte o arquivo [LICENSE](LICENSE.md) para mais informações.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
