@@ -1,6 +1,6 @@
-# Durango Finanças
+# Durango
 
-Durango Finanças é um aplicativo para gerenciamento financeiro pessoal com o objetivo de ajudar as pessoas a controlar seus gastos, investimentos, empréstimos, financiamentos e consórcios. O aplicativo oferece diversas funcionalidades, como:
+Durango é um aplicativo para gerenciamento financeiro pessoal com o objetivo de ajudar as pessoas a controlar seus gastos, investimentos, empréstimos, financiamentos e consórcios.
 
 ## Funcionalidades
 
@@ -16,9 +16,9 @@ Durango Finanças é um aplicativo para gerenciamento financeiro pessoal com o o
 - Gerenciamento de investimentos;
 - Armazenamento de cópias de contratos de empréstimos pessoais e consignados;
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
-O aplicativo Durango Finanças foi desenvolvido utilizando as seguintes tecnologias:
+O aplicativo Durango foi desenvolvido utilizando as seguintes tecnologias:
 
 - Postgres: para armazenamento de dados;
 - Flutter: para a construção do aplicativo mobile;
@@ -43,8 +43,6 @@ Para rodar o projeto, siga os passos abaixo:
 5. Crie um pull request no repositório original
 
 ## Autores
-
-## Autor
 
 Este projeto foi criado por Bruno Novaes. Para mais informações, acesse o meu [perfil](https://github.com/bvnovaes) no GitHub.
 
