@@ -2,6 +2,7 @@ using Durango.Contracts.Authentication;
 using Durango.Application.Services.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using ErrorOr;
+using Durango.Domain.Common.Errors;
 
 namespace Durango.Api.Controllers;
 
@@ -42,6 +43,15 @@ public class AuthenticationController : ApiController
     {
         var authResult = _authenticationService.Login(request.Email, request.Password);
 
-        return authResult.Match(authResult => Ok(MapAuthResult(authResult)), errors => Problem(errors));
+        if (authResult.IsError && authResult.FirstError == Errors.Authentication.InvalidCredentials)
+        {
+            return Problem(
+                statusCode: StatusCodes.Status401Unauthorized,
+                title: authResult.FirstError.Description);
+        }
+
+        return authResult.Match(
+            authResult => Ok(MapAuthResult(authResult)),
+            errors => Problem(errors));
     }
 }
