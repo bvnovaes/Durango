@@ -4,17 +4,16 @@ Durango é um aplicativo para gerenciamento financeiro pessoal com o objetivo de
 
 ## Funcionalidades
 
-- Integração com a Open Banking para visualização e importação de extrato bancário e transações em tempo real;
+- Uso de IA para sugerir metas, orçamentos, investimentos, conteúdo de educação financeira, alerta de gastos excessivos e notificações de economia de acordo com o perfil do usuário;
+- Integração com a Open Banking para visualização e importação de extrato bancário e transações em tempo real, inclusas movimentações de cartão de crédito;
 - Cadastro de receitas e despesas;
-- Cadastro de contas bancárias e cartões de crédito;
-- Lançamento de movimentações financeiras parceladas, recorrentes e únicas;
-- Categorização de movimentações financeiras por tipo (alimentação, transporte, moradia, lazer, etc.);
-- Acompanhamento de financiamentos pessoais e consórcios;
-- Integração com bancos e cartões de crédito através do Open Banking;
-- Alerta de gastos excessivos;
-- Sugestão de investimento inicial;
-- Gerenciamento de investimentos;
-- Armazenamento de cópias de contratos de empréstimos pessoais e consignados;
+- Cadastro de contas bancárias, carteiras e cartões de crédito;
+- Lançamento automático e manual de movimentações financeiras parceladas, recorrentes e fixas;
+- Categorização automática e manual de movimentações financeiras;
+- Acompanhamento de financiamentos, empréstimos pessoais e consignados, consórcios e gestão de contratos;
+- Educação financeira acessível;
+- Função para avaliar a necessidade de uma compra, afim de educar o usuário para compras por impulso;
+- Gerenciamento e sugestão de investimentos com base no perfil de usuário;
 
 ## Tecnologias utilizadas
 
