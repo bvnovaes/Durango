@@ -20,9 +20,8 @@ Durango é um aplicativo para gerenciamento financeiro pessoal com o objetivo de
 O aplicativo Durango foi desenvolvido utilizando as seguintes tecnologias:
 
 - Postgres: para armazenamento de dados;
-- Flutter: para a construção do aplicativo mobile;
+- Angular: para a construção do aplicativo mobile;
 - .NET Core: para a criação da API;
-- Docker: para a criação e gerenciamento de containers.
 
 ## Como rodar o projeto
 
@@ -31,7 +30,6 @@ Para rodar o projeto, siga os passos abaixo:
 1. Clone o repositório usando o comando `git clone https://github.com/bvnovaes/durango.git`
 2. Na pasta do projeto, execute o comando `docker-compose up -d` para iniciar o banco de dados
 3. Acesse a pasta `api` e execute o comando `dotnet run` para iniciar a API
-4. Acesse a pasta `app` e execute o comando `flutter run` para iniciar o aplicativo
 
 ## Como contribuir
 
